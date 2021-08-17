@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Uranium94
-- 👀 I’m interested in cryptography, decentralisation and blockchain. 
-- 🌱 I’m currently learning web development.
+- 👀 I’m interested in cryptography, decentralisation and blockchain
+- 🌱 I’m currently learning web development (Javascript, HTML)
 - 📫 How to reach me uraniumax@gmail.com
 
 <!---
