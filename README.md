@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Max
 - 👀 I’m interested in cryptography, decentralisation and blockchain
-- 🌱 I’m currently learning web development (Ruby, JS, CSS, html...) with Le Wagon (Paris).
+- 🌱 I’m currently learning Ruby with Le Wagon (Paris).
 - 📫 How to reach me maxellis85@gmail.com
 
 <!---
